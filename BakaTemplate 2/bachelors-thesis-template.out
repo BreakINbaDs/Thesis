@@ -1,0 +1,34 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Taxonomy of the IoT}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Perception Domain}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Access Domain}{subsection.2.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Network Domain}{subsection.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Application Domain}{subsection.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Taxonomy of the IoT security}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Security challenges in Application layer}{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Security challenges in Architecture}{subsection.2.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Security challenges in Communication}{subsection.2.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Security challenges in Data protection}{subsection.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.3}{The future directions in the IoT}{section.2}% 13
+\BOOKMARK [1][-]{section.3}{Security Risk Management \(SRM\) }{}% 14
+\BOOKMARK [2][-]{subsection.3.1}{What is Security Risk Management? }{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.2}{Domain Model for SRM}{section.3}% 16
+\BOOKMARK [1][-]{section.4}{Content and Assets of IoT}{}% 17
+\BOOKMARK [2][-]{subsection.4.1}{IoT Domain Model}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.2}{Vulnerability}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.3}{IoT Security Controls }{section.4}% 20
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Protocol and network security}{subsection.4.3}% 21
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Data and privacy}{subsection.4.3}% 22
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Identity management}{subsection.4.3}% 23
+\BOOKMARK [3][-]{subsubsection.4.3.4}{Trust and governance, Cm\0439:}{subsection.4.3}% 24
+\BOOKMARK [3][-]{subsubsection.4.3.5}{Fault tolerance, Cm\04310:}{subsection.4.3}% 25
+\BOOKMARK [1][-]{section.5}{Analysis of Security Risks in IoT Systems}{}% 26
+\BOOKMARK [1][-]{section.6}{Framework application for the IoT system}{}% 27
+\BOOKMARK [2][-]{subsection.6.1}{IoT system architecture}{section.6}% 28
+\BOOKMARK [2][-]{subsection.6.2}{Application security}{section.6}% 29
+\BOOKMARK [2][-]{subsection.6.3}{Testing results}{section.6}% 30
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 31
+\BOOKMARK [1][-]{section*.15}{Appendix}{}% 32
+\BOOKMARK [2][-]{section*.16}{I. Glossary}{section*.15}% 33
+\BOOKMARK [2][-]{section*.17}{II. Licence}{section*.15}% 34
